@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronesCreacionales", "PatronesCreacionales\PatronesCreacionales.csproj", "{5E66F4AA-9FD0-48A0-BB27-2E2DED67DF47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "PatronesCreacionales\Singleton.csproj", "{5E66F4AA-9FD0-48A0-BB27-2E2DED67DF47}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{CDAE525B-E0BA-4E07-9A1A-A062E04B1416}"
 EndProject

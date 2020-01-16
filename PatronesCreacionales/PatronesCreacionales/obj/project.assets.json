@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\PatronesCreacionales\\PatronesCreacionales.csproj",
-      "projectName": "PatronesCreacionales",
-      "projectPath": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\PatronesCreacionales\\PatronesCreacionales.csproj",
+      "projectUniqueName": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\PatronesCreacionales\\Singleton.csproj",
+      "projectName": "Singleton",
+      "projectPath": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\PatronesCreacionales\\Singleton.csproj",
       "packagesPath": "C:\\Users\\victor.martinez\\.nuget\\packages\\",
       "outputPath": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\PatronesCreacionales\\obj\\",
       "projectStyle": "PackageReference",

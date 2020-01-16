@@ -1,0 +1,10 @@
+D:\BOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\bin\Debug\netcoreapp3.0\Singleton.exe
+D:\BOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\bin\Debug\netcoreapp3.0\Singleton.deps.json
+D:\BOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\bin\Debug\netcoreapp3.0\Singleton.runtimeconfig.json
+D:\BOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\bin\Debug\netcoreapp3.0\Singleton.runtimeconfig.dev.json
+D:\BOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\bin\Debug\netcoreapp3.0\Singleton.dll
+D:\BOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\bin\Debug\netcoreapp3.0\Singleton.pdb
+D:\BOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\obj\Debug\netcoreapp3.0\Singleton.AssemblyInfoInputs.cache
+D:\BOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\obj\Debug\netcoreapp3.0\Singleton.AssemblyInfo.cs
+D:\BOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\obj\Debug\netcoreapp3.0\Singleton.dll
+D:\BOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\obj\Debug\netcoreapp3.0\Singleton.pdb
