@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AbstractFactory\**" />
+    <Compile Remove="Builder\**" />
+    <Compile Remove="EjemploPatrones\**" />
+    <Compile Remove="FactoryMethod\**" />
+    <EmbeddedResource Remove="AbstractFactory\**" />
+    <EmbeddedResource Remove="Builder\**" />
+    <EmbeddedResource Remove="EjemploPatrones\**" />
+    <EmbeddedResource Remove="FactoryMethod\**" />
+    <None Remove="AbstractFactory\**" />
+    <None Remove="Builder\**" />
+    <None Remove="EjemploPatrones\**" />
+    <None Remove="FactoryMethod\**" />
+  </ItemGroup>
+
+</Project>

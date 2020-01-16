@@ -1,0 +1,11 @@
+D:\WorkspaceBOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\bin\Debug\netcoreapp3.0\PatronesCreacionales.exe
+D:\WorkspaceBOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\bin\Debug\netcoreapp3.0\PatronesCreacionales.deps.json
+D:\WorkspaceBOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\bin\Debug\netcoreapp3.0\PatronesCreacionales.runtimeconfig.json
+D:\WorkspaceBOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\bin\Debug\netcoreapp3.0\PatronesCreacionales.runtimeconfig.dev.json
+D:\WorkspaceBOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\bin\Debug\netcoreapp3.0\PatronesCreacionales.dll
+D:\WorkspaceBOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\bin\Debug\netcoreapp3.0\PatronesCreacionales.pdb
+D:\WorkspaceBOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\obj\Debug\netcoreapp3.0\PatronesCreacionales.csprojAssemblyReference.cache
+D:\WorkspaceBOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\obj\Debug\netcoreapp3.0\PatronesCreacionales.AssemblyInfoInputs.cache
+D:\WorkspaceBOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\obj\Debug\netcoreapp3.0\PatronesCreacionales.AssemblyInfo.cs
+D:\WorkspaceBOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\obj\Debug\netcoreapp3.0\PatronesCreacionales.dll
+D:\WorkspaceBOT-cursos\cursos\PatronesCreacionales\PatronesCreacionales\obj\Debug\netcoreapp3.0\PatronesCreacionales.pdb
