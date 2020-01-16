@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\Builder\\Builder.csproj",
+      "projectUniqueName": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\Builder\\Builder.csproj",
       "projectName": "Builder",
-      "projectPath": "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\Builder\\Builder.csproj",
+      "projectPath": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\Builder\\Builder.csproj",
       "packagesPath": "C:\\Users\\victor.martinez\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\Builder\\obj\\",
+      "outputPath": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\Builder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

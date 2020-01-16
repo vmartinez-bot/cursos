@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\PatronesCreacionales\\PatronesCreacionales.csproj": {}
+    "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\PatronesCreacionales\\PatronesCreacionales.csproj": {}
   },
   "projects": {
-    "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\PatronesCreacionales\\PatronesCreacionales.csproj": {
+    "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\PatronesCreacionales\\PatronesCreacionales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\PatronesCreacionales\\PatronesCreacionales.csproj",
+        "projectUniqueName": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\PatronesCreacionales\\PatronesCreacionales.csproj",
         "projectName": "PatronesCreacionales",
-        "projectPath": "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\PatronesCreacionales\\PatronesCreacionales.csproj",
+        "projectPath": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\PatronesCreacionales\\PatronesCreacionales.csproj",
         "packagesPath": "C:\\Users\\victor.martinez\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\PatronesCreacionales\\obj\\",
+        "outputPath": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\PatronesCreacionales\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

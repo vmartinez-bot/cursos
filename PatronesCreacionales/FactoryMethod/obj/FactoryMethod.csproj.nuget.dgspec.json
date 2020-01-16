@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\FactoryMethod\\FactoryMethod.csproj": {}
+    "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\FactoryMethod\\FactoryMethod.csproj": {}
   },
   "projects": {
-    "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\FactoryMethod\\FactoryMethod.csproj": {
+    "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\FactoryMethod\\FactoryMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\FactoryMethod\\FactoryMethod.csproj",
+        "projectUniqueName": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\FactoryMethod\\FactoryMethod.csproj",
         "projectName": "FactoryMethod",
-        "projectPath": "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\FactoryMethod\\FactoryMethod.csproj",
+        "projectPath": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\FactoryMethod\\FactoryMethod.csproj",
         "packagesPath": "C:\\Users\\victor.martinez\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\FactoryMethod\\obj\\",
+        "outputPath": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\FactoryMethod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

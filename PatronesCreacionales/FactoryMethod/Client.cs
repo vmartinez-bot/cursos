@@ -8,12 +8,12 @@ namespace FactoryMethod.Conceptual
     {
         public void Main()
         {
-            Console.WriteLine("App: Launched with the ConcreteCreator1.");
+            Console.WriteLine("App: Lanzada con el ConcreteCreator1.");
             ClientCode(new WindowsDialog());
 
             Console.WriteLine("");
 
-            Console.WriteLine("App: Launched with the ConcreteCreator2.");
+            Console.WriteLine("App: Lanzada con el ConcreteCreator2.");
             ClientCode(new WebDialog());
         }
 

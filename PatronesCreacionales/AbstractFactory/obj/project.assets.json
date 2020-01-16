@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\AbstractFactory\\AbstractFactory.csproj",
+      "projectUniqueName": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\AbstractFactory\\AbstractFactory.csproj",
       "projectName": "AbstractFactory",
-      "projectPath": "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\AbstractFactory\\AbstractFactory.csproj",
+      "projectPath": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\AbstractFactory\\AbstractFactory.csproj",
       "packagesPath": "C:\\Users\\victor.martinez\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkspaceBOT-cursos\\cursos\\PatronesCreacionales\\AbstractFactory\\obj\\",
+      "outputPath": "D:\\BOT-cursos\\cursos\\PatronesCreacionales\\AbstractFactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
