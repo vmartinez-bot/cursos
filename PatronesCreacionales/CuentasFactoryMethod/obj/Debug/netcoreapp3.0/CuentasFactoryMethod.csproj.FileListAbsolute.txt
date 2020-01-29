@@ -1,0 +1,11 @@
+D:\BOT-cursos\cursos\PatronesCreacionales\CuentasFactoryMethod\obj\Debug\netcoreapp3.0\CuentasFactoryMethod.AssemblyInfoInputs.cache
+D:\BOT-cursos\cursos\PatronesCreacionales\CuentasFactoryMethod\obj\Debug\netcoreapp3.0\CuentasFactoryMethod.AssemblyInfo.cs
+D:\BOT-cursos\cursos\PatronesCreacionales\CuentasFactoryMethod\bin\Debug\netcoreapp3.0\CuentasFactoryMethod.exe
+D:\BOT-cursos\cursos\PatronesCreacionales\CuentasFactoryMethod\bin\Debug\netcoreapp3.0\CuentasFactoryMethod.deps.json
+D:\BOT-cursos\cursos\PatronesCreacionales\CuentasFactoryMethod\bin\Debug\netcoreapp3.0\CuentasFactoryMethod.runtimeconfig.json
+D:\BOT-cursos\cursos\PatronesCreacionales\CuentasFactoryMethod\bin\Debug\netcoreapp3.0\CuentasFactoryMethod.runtimeconfig.dev.json
+D:\BOT-cursos\cursos\PatronesCreacionales\CuentasFactoryMethod\bin\Debug\netcoreapp3.0\CuentasFactoryMethod.dll
+D:\BOT-cursos\cursos\PatronesCreacionales\CuentasFactoryMethod\bin\Debug\netcoreapp3.0\CuentasFactoryMethod.pdb
+D:\BOT-cursos\cursos\PatronesCreacionales\CuentasFactoryMethod\obj\Debug\netcoreapp3.0\CuentasFactoryMethod.csprojAssemblyReference.cache
+D:\BOT-cursos\cursos\PatronesCreacionales\CuentasFactoryMethod\obj\Debug\netcoreapp3.0\CuentasFactoryMethod.dll
+D:\BOT-cursos\cursos\PatronesCreacionales\CuentasFactoryMethod\obj\Debug\netcoreapp3.0\CuentasFactoryMethod.pdb
