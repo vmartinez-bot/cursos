@@ -1,0 +1,11 @@
+D:\BOT-cursos\cursos\PatronesCreacionales\ShapesAbstractFactory\bin\Debug\netcoreapp3.0\ShapesAbstractFactory.exe
+D:\BOT-cursos\cursos\PatronesCreacionales\ShapesAbstractFactory\bin\Debug\netcoreapp3.0\ShapesAbstractFactory.deps.json
+D:\BOT-cursos\cursos\PatronesCreacionales\ShapesAbstractFactory\bin\Debug\netcoreapp3.0\ShapesAbstractFactory.runtimeconfig.json
+D:\BOT-cursos\cursos\PatronesCreacionales\ShapesAbstractFactory\bin\Debug\netcoreapp3.0\ShapesAbstractFactory.runtimeconfig.dev.json
+D:\BOT-cursos\cursos\PatronesCreacionales\ShapesAbstractFactory\bin\Debug\netcoreapp3.0\ShapesAbstractFactory.dll
+D:\BOT-cursos\cursos\PatronesCreacionales\ShapesAbstractFactory\bin\Debug\netcoreapp3.0\ShapesAbstractFactory.pdb
+D:\BOT-cursos\cursos\PatronesCreacionales\ShapesAbstractFactory\obj\Debug\netcoreapp3.0\ShapesAbstractFactory.csprojAssemblyReference.cache
+D:\BOT-cursos\cursos\PatronesCreacionales\ShapesAbstractFactory\obj\Debug\netcoreapp3.0\ShapesAbstractFactory.AssemblyInfoInputs.cache
+D:\BOT-cursos\cursos\PatronesCreacionales\ShapesAbstractFactory\obj\Debug\netcoreapp3.0\ShapesAbstractFactory.AssemblyInfo.cs
+D:\BOT-cursos\cursos\PatronesCreacionales\ShapesAbstractFactory\obj\Debug\netcoreapp3.0\ShapesAbstractFactory.dll
+D:\BOT-cursos\cursos\PatronesCreacionales\ShapesAbstractFactory\obj\Debug\netcoreapp3.0\ShapesAbstractFactory.pdb
