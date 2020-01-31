@@ -1,0 +1,11 @@
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringBuilder\bin\Debug\netcoreapp3.0\ConnectionStringBuilder.exe
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringBuilder\bin\Debug\netcoreapp3.0\ConnectionStringBuilder.deps.json
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringBuilder\bin\Debug\netcoreapp3.0\ConnectionStringBuilder.runtimeconfig.json
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringBuilder\bin\Debug\netcoreapp3.0\ConnectionStringBuilder.runtimeconfig.dev.json
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringBuilder\bin\Debug\netcoreapp3.0\ConnectionStringBuilder.dll
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringBuilder\bin\Debug\netcoreapp3.0\ConnectionStringBuilder.pdb
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringBuilder\obj\Debug\netcoreapp3.0\ConnectionStringBuilder.csprojAssemblyReference.cache
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringBuilder\obj\Debug\netcoreapp3.0\ConnectionStringBuilder.AssemblyInfoInputs.cache
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringBuilder\obj\Debug\netcoreapp3.0\ConnectionStringBuilder.AssemblyInfo.cs
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringBuilder\obj\Debug\netcoreapp3.0\ConnectionStringBuilder.dll
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringBuilder\obj\Debug\netcoreapp3.0\ConnectionStringBuilder.pdb

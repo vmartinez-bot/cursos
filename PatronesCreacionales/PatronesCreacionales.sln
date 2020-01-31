@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron Singleton", "Patron 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesAbstractFactory", "ShapesAbstractFactory\ShapesAbstractFactory.csproj", "{EDDE13F2-9356-4ED9-BA82-339569C66D98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionStringBuilder", "ConnectionStringBuilder\ConnectionStringBuilder.csproj", "{4AF42C7F-F66C-4F96-A51B-533181D59220}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{EDDE13F2-9356-4ED9-BA82-339569C66D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDDE13F2-9356-4ED9-BA82-339569C66D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDDE13F2-9356-4ED9-BA82-339569C66D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF42C7F-F66C-4F96-A51B-533181D59220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF42C7F-F66C-4F96-A51B-533181D59220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF42C7F-F66C-4F96-A51B-533181D59220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF42C7F-F66C-4F96-A51B-533181D59220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +70,7 @@ Global
 		{C590A63D-7913-4A03-A520-F26CF675CA3F} = {F4C1513C-580E-426F-8B44-CBFB962A00DB}
 		{D886E070-13D0-46E8-A66D-F9767DE95B63} = {F4C1513C-580E-426F-8B44-CBFB962A00DB}
 		{EDDE13F2-9356-4ED9-BA82-339569C66D98} = {D6BB6BF2-076C-49C7-AE25-48D5AC6076D1}
+		{4AF42C7F-F66C-4F96-A51B-533181D59220} = {975FEFFF-2E76-4983-BC34-4B1122395CBA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {98C46A8A-49E3-4B04-9C66-440C1A19DD62}
