@@ -1,0 +1,21 @@
+﻿using Framework.ConfiguracionDI;
+using Microsoft.Extensions.DependencyInjection;
+using {Proyecto}.DAL.Repositorios;
+using {Proyecto}.Negocio.Definiciones.Repositorios;
+using {Proyecto}.Negocio.Definiciones.Servicios;
+using {Proyecto}.Negocio.Definiciones.Validadores;
+using {Proyecto}.Negocio.Servicios;
+using {Proyecto}.Negocio.Validadores;
+using {Proyecto}.ViewModel.Definiciones.Servicios;
+using {Proyecto}.ViewModel.Servicios;
+
+namespace {Proyecto}.ConfiguracionDI
+{
+    public class ConfiguradoDI{Modelo}: IConfiguracionDI
+    {
+        public void RegistrarConfiguracion(IServiceCollection ContenedorDI)
+        {
+			{Operacion}
+        }
+    }
+}

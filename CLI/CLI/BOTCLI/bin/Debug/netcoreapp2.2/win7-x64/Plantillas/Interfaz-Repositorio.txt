@@ -1,0 +1,12 @@
+﻿using Framework.Negocio.Definiciones.Repositorios;
+using {Proyecto}.Negocio.Modelos;
+
+namespace {Proyecto}.Negocio.Definiciones.Repositorios
+{
+    /// <summary>
+    /// Repositorio de {Operacion} de {Modelo}.
+    /// </summary>
+    public interface I{Operacion}{Modelo}Repository: I{Operacion}Repository<{Modelo}>
+    {
+    }
+}

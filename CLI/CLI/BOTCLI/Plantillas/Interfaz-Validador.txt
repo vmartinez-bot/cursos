@@ -1,0 +1,12 @@
+﻿using Framework.Negocio.Definiciones.Validadores;
+using {Proyecto}.Negocio.Modelos;
+
+namespace {Proyecto}.Negocio.Definiciones.Validadores
+{
+    /// <summary>
+    /// Validador previo a la operación: {Operacion} de {Modelo}.
+    /// </summary>
+    public interface IValidador{Operacion}{Modelo}: IValidador{Operacion}<{Modelo}>
+    {
+    }
+}

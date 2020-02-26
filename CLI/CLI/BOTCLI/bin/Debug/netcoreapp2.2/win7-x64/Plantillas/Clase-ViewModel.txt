@@ -1,0 +1,18 @@
+﻿using System.ComponentModel.DataAnnotations;
+using Framework.Negocio.Definiciones.Modelos;
+
+namespace {Proyecto}.ViewModel.Modelos
+{
+    /// <summary>
+    /// Viewmodel para {Modelo}
+    /// </summary>
+    public class {Modelo}ViewModel:IModelo
+    {
+        /// <summary>
+        /// Identificador que lo distingue de manera única.
+        /// </summary>
+		[Required]
+        [MaxLength(100)]
+        public string Id { get; set; }
+    }
+}

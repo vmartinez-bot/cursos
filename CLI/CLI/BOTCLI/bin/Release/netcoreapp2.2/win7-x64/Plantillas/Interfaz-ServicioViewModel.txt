@@ -1,0 +1,13 @@
+﻿using {Proyecto}.ViewModel.Modelos;
+using Framework.ViewModel.Definiciones.Servicios;
+
+namespace {Proyecto}.ViewModel.Definiciones.Servicios
+{
+    /// <summary>
+    /// Definición del servicio de {Operacion} de los viewmodels de {Modelo}.
+    /// </summary>
+    public interface I{Operacion}{Modelo}ViewModelService:I{Operacion}ViewModelService<{Modelo}ViewModel>
+    {
+      
+	}
+}

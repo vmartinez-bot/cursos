@@ -1,0 +1,11 @@
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringFluentBuilder\obj\Debug\netcoreapp3.0\ConnectionStringFluentBuilder.csprojAssemblyReference.cache
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringFluentBuilder\obj\Debug\netcoreapp3.0\ConnectionStringFluentBuilder.AssemblyInfoInputs.cache
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringFluentBuilder\obj\Debug\netcoreapp3.0\ConnectionStringFluentBuilder.AssemblyInfo.cs
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringFluentBuilder\bin\Debug\netcoreapp3.0\ConnectionStringFluentBuilder.exe
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringFluentBuilder\bin\Debug\netcoreapp3.0\ConnectionStringFluentBuilder.deps.json
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringFluentBuilder\bin\Debug\netcoreapp3.0\ConnectionStringFluentBuilder.runtimeconfig.json
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringFluentBuilder\bin\Debug\netcoreapp3.0\ConnectionStringFluentBuilder.runtimeconfig.dev.json
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringFluentBuilder\bin\Debug\netcoreapp3.0\ConnectionStringFluentBuilder.dll
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringFluentBuilder\bin\Debug\netcoreapp3.0\ConnectionStringFluentBuilder.pdb
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringFluentBuilder\obj\Debug\netcoreapp3.0\ConnectionStringFluentBuilder.dll
+D:\BOT-cursos\cursos\PatronesCreacionales\ConnectionStringFluentBuilder\obj\Debug\netcoreapp3.0\ConnectionStringFluentBuilder.pdb

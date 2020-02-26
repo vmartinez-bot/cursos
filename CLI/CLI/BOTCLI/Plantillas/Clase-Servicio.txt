@@ -1,0 +1,18 @@
+﻿using Framework.Negocio.Servicios;
+using {Proyecto}.Negocio.Modelos;
+using {Proyecto}.Negocio.Definiciones.Repositorios;
+using {Proyecto}.Negocio.Definiciones.Servicios;
+using {Proyecto}.Negocio.Definiciones.Validadores;
+
+namespace {Proyecto}.Negocio.Servicios
+{
+    /// <summary>
+    /// Servicio de {Operacion} para {Modelo}.
+    /// </summary>
+    public class {Operacion}{Modelo}Service : {Operacion}ServiceBase<{Modelo}>, I{Operacion}{Modelo}Service
+    {
+        public {Operacion}{Modelo}Service(IValidador{Operacion}{Modelo} Validador, I{Operacion}{Modelo}Repository Repositorio) : base(Validador, Repositorio)
+        {
+        }
+    }
+}

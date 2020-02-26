@@ -1,0 +1,12 @@
+﻿using Framework.Negocio.Definiciones.Servicios;
+using {Proyecto}.Negocio.Modelos;
+
+namespace {Proyecto}.Negocio.Definiciones.Servicios
+{
+    /// <summary>
+    /// Servicio de {Operacion} de {Modelo}.
+    /// </summary>
+    public interface I{Operacion}{Modelo}Service: I{Operacion}Service<{Modelo}>
+    {
+    }
+}

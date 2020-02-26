@@ -1,0 +1,20 @@
+﻿using System;
+using FluentValidation;
+using Framework.Negocio.Validadores;
+using {Proyecto}.Negocio.Modelos;
+using {Proyecto}.Negocio.Definiciones.Repositorios;
+using {Proyecto}.Negocio.Definiciones.Validadores;
+
+namespace {Proyecto}.Negocio.Validadores
+{
+    public class Validador{Operacion}{Modelo}: Validador{Operacion}Base<{Modelo}>, IValidador{Operacion}{Modelo}
+    {
+        public Validador{Operacion}{Modelo}() : base()
+        {
+        }
+
+        protected override void ConfigurarReglas()
+        {
+        }
+    }
+}

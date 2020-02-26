@@ -1,0 +1,14 @@
+﻿using System.ComponentModel.DataAnnotations;
+using Framework.Negocio.Definiciones.Modelos;
+
+namespace {Proyecto}.Negocio.Modelos
+{
+    /// <summary>
+    /// Definición del modelo {Modelo}
+    /// </summary>
+    public class {Modelo}:IModelo
+    {
+		[Required]
+        public string Id { get; set; }
+    }
+}

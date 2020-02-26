@@ -1,0 +1,27 @@
+﻿using AutoMapper;
+using Framework.ViewModel.Servicios;
+using {Proyecto}.Negocio.Modelos;
+using {Proyecto}.Negocio.Definiciones.Servicios;
+using {Proyecto}.ViewModel.Definiciones.Servicios;
+using {Proyecto}.ViewModel.Modelos;
+
+namespace {Proyecto}.ViewModel.Servicios
+{
+    /// <summary>
+    /// Servicio de {Operacion} para viewmodels de {Modelo}
+    /// </summary>
+    public class {Operacion}{Modelo}ViewModelService : {Operacion}ViewModelServiceBase<{Modelo}ViewModel, {Modelo}>, I{Operacion}{Modelo}ViewModelService
+    {
+        private readonly I{Operacion}{Modelo}Service _Servicio;
+
+        /// <summary>
+        /// Servicio de {Operacion}de viewmodels de {Modelo}.
+        /// </summary>
+        /// <param name="Mapeador">Mapeador para realizar el automapeo.</param>
+        /// <param name="Servicio">Servicio de {Operacion}.</param>
+        public {Operacion}{Modelo}ViewModelService(IMapper Mapeador, I{Operacion}{Modelo}Service Servicio) : base(Mapeador, Servicio)
+        {
+            _Servicio = Servicio;
+        }
+    }
+}
